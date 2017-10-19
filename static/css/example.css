@@ -1,0 +1,164 @@
+.left_nav {
+  position: fixed;
+  left: 0;
+  top: 6.1rem;
+  width: 5.03333333rem;
+  height: 100%;
+  border-right: 0.03333333rem solid #cccccc;
+}
+.left_nav ul {
+  width: 100%;
+}
+.left_nav ul li {
+  height: 3.33333333rem;
+  background: #F4F4F4;
+  border-bottom: 0.03333333rem solid #cccccc;
+  text-align: center;
+  line-height: 3.33333333rem;
+  font-size: 0.66666667rem;
+  color: #133562;
+}
+.left_nav ul .nav_color {
+  color: #394043;
+  font-weight: 600;
+}
+.right_con {
+  float: left;
+  margin-left: 5rem;
+}
+.right_con .right_show {
+  display: block;
+}
+.right_con li {
+  width: 16.66666667rem;
+  margin-left: 0.66666667rem;
+  display: none;
+}
+.right_con li dl {
+  margin-bottom: 3.33333333rem;
+  overflow: hidden;
+}
+.right_con li dl dt {
+  width: 100%;
+}
+.right_con li dl dt img {
+  width: 18.66666667rem;
+  margin: 0.66666667rem auto;
+}
+.right_con li dl dd {
+  width: 20rem;
+  text-align: left;
+  margin-top: 1rem;
+  overflow: hidden;
+}
+.right_con li dl dd .Dp_conLeft {
+  float: left;
+  width: 10rem;
+}
+.right_con li dl dd .Dp_conLeft h3 {
+  font-size: 0.86666667rem;
+  color: #000;
+}
+.right_con li dl dd .Dp_conLeft p {
+  margin-top: 1rem;
+  font-size: 0.6rem;
+  color: #71AFAE;
+  text-align: left;
+  overflow: hidden;
+}
+.right_con li dl dd .Dp_conLeft p img {
+  float: left;
+  margin-left: 0.16666667rem;
+}
+.right_con li dl dd .Dp_conLeft p span {
+  margin-left: 0.66666667rem;
+  float: left;
+}
+.right_con li dl dd .Dp_conLeft .sale_now {
+  margin: 1rem 0;
+  width: 1.33333333rem;
+  color: #E45D57;
+  padding: 0.33333333rem;
+  border: 0.03333333rem solid #e45d57;
+  border-radius: 0.33333333rem;
+}
+.right_con li dl dd .Dp_conLeft .Dp_conLeft_phone {
+  color: #2A2F53;
+}
+.right_con li dl dd .Dp_conRight {
+  float: left;
+  margin-left: -1.33333333rem;
+  margin-top: 5rem;
+}
+.right_con li dl dd .Dp_conRight img {
+  float: left;
+  width: 6.66666667rem;
+}
+.right_con li dl dd .Dp_conRight .left_dec {
+  width: 1.66666667rem;
+  margin-top: 1.66666667rem;
+}
+.right_con li .example_footer {
+  position: relative;
+  width: 19.96666667rem;
+  margin-left: -0.6rem;
+}
+.right_con li .example_footer .map_bg {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 19.96666667rem;
+  z-index: 1;
+}
+.right_con li .example_footer .China_map {
+  position: absolute;
+  left: 0.66666667rem;
+  top: 0.66666667rem;
+  width: 8.33333333rem;
+  z-index: 2;
+}
+.right_con li .example_footer .mark {
+  position: absolute;
+  left: 6.33333333rem;
+  top: 2rem;
+  width: 0.66666667rem;
+  z-index: 3;
+}
+.right_con li .example_footer .footer_con {
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 10rem;
+  text-align: left;
+  z-index: 3;
+}
+.right_con li .example_footer .footer_con h4 {
+  font-size: 0.86666667rem;
+  color: #8ACBB7;
+  margin: 0.33333333rem 0;
+}
+.right_con li .example_footer .footer_con .auto_con {
+  width: 10rem;
+  overflow: auto;
+  height: 3.33333333rem;
+}
+.right_con li .example_footer .footer_con .auto_con p {
+  font-size: 0.53333333rem;
+  margin-top: 0.5rem;
+  color: #8D8D8D;
+}
+.right_con li .example_footer .footer_con .example_location {
+  font-size: 0.6rem;
+  color: #838383;
+  margin-top: 0.16666667rem;
+}
+.right_con li .example_footer .footer_con .example_location span {
+  margin-right: 0.66666667rem;
+}
+.right_con li .example_footer .footer_con .example_location .location_qie {
+  color: #FE8359;
+}
+.right_con .sales_agent .Dp_conRight img {
+  width: 5.33333333rem;
+  margin-left: 0.66666667rem;
+}

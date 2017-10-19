@@ -1,0 +1,145 @@
+.content {
+  overflow: auto;
+}
+.content .mint-swipe {
+  height: 10rem;
+}
+.content .mint-swipe img {
+  width: 100%;
+  height: 10rem;
+}
+.content .mint-swipe .mint-swipe-indicators .is-active {
+  opacity: 0.8;
+}
+.content #iocn_list ul {
+  padding: 1rem 0.66666667rem 0 0.33333333rem;
+  display: flex;
+}
+.content #iocn_list ul li {
+  flex: 1;
+  text-align: center;
+}
+.content #iocn_list ul li .icon {
+  width: 2.66666667rem;
+  height: 2.66666667rem;
+  margin: 0 auto;
+}
+.content #iocn_list ul li .icon img {
+  width: 2.66666667rem;
+  height: 2.66666667rem;
+}
+.content #iocn_list ul li p {
+  height: 2.13333333rem;
+  line-height: 2.13333333rem;
+  font-size: 0.66666667rem;
+  overflow: hidden;
+  display: block;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+.content .mint-navbar {
+  margin-top: 0.66666667rem;
+}
+.content .mint-navbar .is-selected {
+  border: none;
+  background: #133562;
+}
+.content .mint-navbar .is-selected .mint-tab-item-label {
+  color: #fff;
+}
+.content .mint-tab-container-item .mint-cell-wrapper .mint-cell-title {
+  text-align: left;
+  padding-left: 1.66666667rem;
+  background: url(../../src/assets/img/images_home/point_42.png) no-repeat 0.33333333rem 0.33333333rem;
+}
+.content .mint-tab-container-item .mint-cell-wrapper .mint-cell-title .mint-cell-text {
+  color: #333;
+  font-size: 0.73333333rem;
+}
+.content .mint-tab-container-item .more {
+  height: 2.33333333rem;
+  line-height: 2.33333333rem;
+}
+.content .mint-tab-container-item .more a {
+  display: block;
+  float: right;
+  margin-right: 2rem;
+  color: #666666;
+}
+.content #list {
+  width: 21.16666667rem;
+  height: 0.13333333rem;
+  background: url(../../src/assets/img/images_home/dashs.jpg) repeat-x;
+  margin: 1.16666667rem auto;
+}
+.content #containter {
+  width: 21.16666667rem;
+  margin: 0.83333333rem auto 0;
+  overflow: hidden;
+}
+.content #containter .ctn_left {
+  float: left;
+  width: 13.66666667rem;
+  height: 10rem;
+}
+.content #containter .ctn_left dl {
+  float: left;
+  width: 6.5rem;
+  height: 4.83333333rem;
+  background: #f2f2f2;
+  margin-right: 0.33333333rem;
+  margin-bottom: 0.33333333rem;
+}
+.content #containter .ctn_left dl dt {
+  margin-top: 0.66666667rem;
+}
+.content #containter .ctn_left dl dt img {
+  width: 2.33333333rem;
+  margin: 0 auto;
+}
+.content #containter .ctn_left dl dd {
+  margin-top: 0.33333333rem;
+  height: 1rem;
+}
+.content #containter .ctn_left dl dd a {
+  display: block;
+  text-align: center;
+  font-size: 0.66666667rem;
+  color: #333;
+  line-height: 1rem;
+}
+.content #containter .ctn_right {
+  float: right;
+  width: 7.5rem;
+  height: 10rem;
+  background: #f2f2f2;
+}
+.content #containter .ctn_right div {
+  width: 5.66666667rem;
+  height: 5.66666667rem;
+  margin: 1.33333333rem auto 0;
+}
+.content #containter .ctn_right div img {
+  width: 5.66666667rem;
+  height: 5.66666667rem;
+}
+.content #containter .ctn_right p {
+  height: 0.83333333rem;
+  line-height: 0.83333333rem;
+  font-size: 0.66666667rem;
+  color: #333;
+  text-align: center;
+  margin-top: 1rem;
+}
+.content #copyright .cr_bg {
+  width: 21rem;
+  height: 2rem;
+  margin: 0.33333333rem auto 0;
+  background: #f2f2f2;
+}
+.content #copyright .cr_bg p {
+  font-size: 0.66666667rem;
+  color: #333;
+  line-height: 2.33333333rem;
+  text-align: center;
+}

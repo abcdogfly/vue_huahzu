@@ -1,0 +1,39 @@
+html,
+body {
+  position: fixed;
+  max-width:30rem;
+  height: 100%;
+}
+#header {
+  width: 25rem;
+  height: 3rem;
+  line-height: 3rem;
+  text-align: center;
+  background: #133562;
+}
+#header .logo {
+  width: 10rem;
+  height: 2rem;
+  display: inline-block;
+  padding-top:0.5rem;
+}
+#nav {
+  display: flex;
+  border-bottom:0.0333333rem solid #ccc;
+}
+#nav li {
+  line-height: 2.93333333rem;
+  flex: 1;
+  text-align: left;
+}
+#nav li a {
+  color: #333;
+  font-size:0.8rem;
+}
+#nav li.home img{
+  width: 1.53333333rem;
+  height: 1.53333333rem;
+  margin-top: 0.53333333rem;
+  margin-left: 1.8rem;
+  box-sizing:border-box;
+}

@@ -1,0 +1,208 @@
+.case_top {
+  position: relative;
+  width: 25rem;
+  height: 9.33333333rem;
+}
+.case_top .case_bg {
+  position: absolute;
+  left: 0;
+  top: 0;
+  z-index: 2;
+  width: 25rem;
+  height: 100%;
+}
+.case_top .case_topPic {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 19.33333333rem;
+  height: 7.33333333rem;
+  margin-left: -9.66666667rem;
+  margin-top: -3.66666667rem;
+  z-index: 3;
+  background: #fff;
+  overflow: hidden;
+}
+.case_top .case_topPic img {
+  float: left;
+  width: 6rem;
+  height: 5.33333333rem;
+  margin-left: 0.66666667rem;
+  margin-top: 1rem;
+}
+.case_top .case_topPic .case_topCon {
+  float: left;
+  margin-left: 1rem;
+  text-align: left;
+}
+.case_top .case_topPic .case_topCon h3 {
+  margin-top: 0.33333333rem;
+  margin-bottom: 0.33333333rem;
+  font-size: 0.73333333rem;
+  color: #000;
+}
+.case_top .case_topPic .case_topCon p {
+  font-size: 0.46666667rem;
+  color: #333;
+}
+.project_brief {
+  padding-top: 0.66666667rem;
+  height: 9.33333333rem;
+  background: #EDEDEF;
+  overflow: hidden;
+}
+.project_brief .project_brief_left {
+  float: left;
+  margin-left: 1rem;
+  width: 13.33333333rem;
+}
+.project_brief .project_brief_left h3 {
+  text-align: left;
+  font-size: 0.8rem;
+  color: #1d2248;
+}
+.project_brief .project_brief_left h3 span {
+  margin-left: 1.33333333rem;
+  color: #0f414c;
+  font-size: 0.6rem;
+  font-weight: 500;
+}
+.project_brief .project_brief_left p {
+  margin-top: 0.5rem;
+  text-align: left;
+  font-size: 0.66666667rem;
+  color: #0f414c;
+  text-indent: 2em;
+  line-height: 1rem;
+}
+.project_brief .project_brief_right {
+  width: 8.33333333rem;
+  height: 8.33333333rem;
+  float: right;
+  margin-right: 1rem;
+  background: #71AFAE;
+  color: #fff;
+  text-align: left;
+}
+.project_brief .project_brief_right h2 {
+  font-size: 0.86666667rem;
+  margin-top: 0.66666667rem;
+  margin-left: 0.66666667rem;
+}
+.project_brief .project_brief_right p {
+  font-size: 0.6rem;
+  margin-top: 0.4rem;
+  width: 10rem;
+  overflow: hidden;
+  margin-left: 0.33333333rem;
+}
+.project_brief .project_brief_right p img {
+  float: left;
+  margin-left: 0.16666667rem;
+}
+.project_brief .project_brief_right p span {
+  float: left;
+  margin-left: 0.66666667rem;
+}
+.project_brief .project_brief_right .sale_now {
+  width: 1.33333333rem;
+  padding: 0.16666667rem;
+  border: 0.03333333rem solid #ffffff;
+  border-radius: 0.16666667rem;
+  margin-left: 0.66666667rem;
+  margin-bottom: 0.5rem;
+}
+.case_title {
+  width: 25rem;
+  height: 2rem;
+  background: #BBD5D7;
+  text-align: left;
+}
+.case_title p {
+  margin-left: 1rem;
+  font-size: 0.8rem;
+  color: #1d2248;
+  height: 3.33333333rem;
+  line-height: 2rem;
+  font-weight: 600;
+}
+.case_title p span {
+  margin-left: 1.33333333rem;
+  color: #0f414c;
+  font-size: 0.6rem;
+  font-weight: 500;
+}
+.case_position {
+  width: 25rem;
+  height: 6.66666667rem;
+  background: #c6dfe0;
+  padding-top: 1.66666667rem;
+  padding-bottom: 1.66666667rem;
+}
+.case_position img {
+  width: 23rem;
+  margin: 0 auto;
+}
+.Dep {
+  width: 25rem;
+  height: 19.33333333rem;
+  background: #0F414C;
+}
+.Dep h2 {
+  padding-top: 1.33333333rem;
+  margin-left: 1rem;
+  text-align: left;
+  font-size: 0.8rem;
+  color: #71AFAE;
+}
+.Dep h2 span {
+  margin-left: 1.33333333rem;
+  color: #71AFAE;
+  font-size: 0.6rem;
+  font-weight: 500;
+}
+.Dep .mint-swipe {
+  height: 16.66666667rem;
+}
+.Dep .mint-swipe .mint-swipe-items-wrap {
+  width: 23rem;
+  margin: 2rem auto;
+}
+.Dep .mint-swipe .mint-swipe-items-wrap p {
+  color: #fff;
+  font-size: 0.93333333rem;
+  margin-top: 1rem;
+}
+.marketing {
+  width: 25rem;
+  height: 19.33333333rem;
+  background: #fff;
+}
+.marketing h2 {
+  padding-top: 1.33333333rem;
+  margin-left: 1rem;
+  text-align: left;
+  font-size: 0.8rem;
+  color: #1D2248;
+}
+.marketing h2 span {
+  margin-left: 1.33333333rem;
+  color: #1D2248;
+  font-size: 0.6rem;
+  font-weight: 500;
+}
+.marketing .mint-swipe {
+  height: 16.66666667rem;
+}
+.marketing .mint-swipe .mint-swipe-items-wrap {
+  width: 23rem;
+  margin: 2rem auto;
+}
+.marketing .mint-swipe .mint-swipe-items-wrap p {
+  color: #666;
+  font-size: 0.93333333rem;
+  margin-top: 1rem;
+}
+.marketing .mint-swipe .mint-swipe-indicator {
+  background: #333;
+}

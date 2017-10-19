@@ -1,0 +1,47 @@
+.pic_banner {
+  height: 6.66666667rem;
+}
+.culture_con {
+  width: 21.66666667rem;
+  margin: 1rem auto 0;
+  overflow: hidden;
+}
+.culture_con .con_left {
+  float: left;
+}
+.culture_con .con_left img {
+  display: block;
+  width: 10rem;
+  margin-bottom: 30rem;
+}
+.culture_con .con_left .last_pic {
+  margin-bottom: 0;
+}
+.culture_con .con_right {
+  float: left;
+  width: 11rem;
+  margin-left: 0.66666667rem;
+}
+.culture_con .con_right ul li {
+  margin-bottom: 1rem;
+}
+.culture_con .con_right ul li h2 {
+  font-size: 0.8rem;
+  color: #333;
+  text-align: left;
+  font-weight: 600;
+  margin: 0.66666667rem 0 0.66666667rem;
+}
+.culture_con .con_right ul li h4 {
+  font-size: 1rem;
+  color: #c2c2c2;
+  text-align: left;
+  font-weight: 500;
+}
+.culture_con .con_right ul li p {
+  font-size: 0.6rem;
+  color: #838383;
+  line-height: 1.16666667rem;
+  text-align: left;
+  margin-top: 0.66666667rem;
+}

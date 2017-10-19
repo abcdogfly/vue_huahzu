@@ -1,0 +1,95 @@
+.company_introduce {
+  width: 21.66666667rem;
+  margin: 0.66666667rem auto 0;
+}
+.company_introduce p {
+  color: #0f414c;
+  margin-bottom: 0.33333333rem;
+  line-height: 1.16666667rem;
+  font-size: 0.73333333rem;
+  text-align: justify;
+  text-indent: 2em;
+}
+.company_introduce p span {
+  font-size: 1rem;
+  color: #333;
+}
+.company_logo {
+  width: 115px;
+  height: 115px;
+  background: url(../../src/assets/img/images_zoujinhuazhu/company_bg.png);
+  background-size: 100% 100%;
+  margin: 1rem auto 0;
+  border: 0.03333333rem solid #c9c9c9;
+  border-radius: 50%;
+}
+.company_logo span {
+  display: block;
+  letter-spacing: 3px;
+  text-align: center;
+}
+.company_logo span:nth-of-type(1) {
+  font-size: 14px;
+  font-weight: bold;
+  padding-top: 39px;
+}
+.company_logo span:nth-of-type(2) {
+  font-size: 12px;
+}
+.company_xj {
+  width: 20rem;
+  height: 1rem;
+  overflow: hidden;
+  margin: 1.66666667rem auto 1rem;
+}
+.company_xj span {
+  display: block;
+  float: left;
+  color: #333;
+  font-size: 0.83333333rem;
+  font-left: 0.33333333rem;
+  font-weight: 600;
+}
+.company_xj i {
+  display: block;
+  float: left;
+  height: 0.5rem;
+  width: 8.33333333rem;
+  margin-left: 1rem;
+  font-style: normal;
+  border-bottom: 0.03333333rem solid #bcbcbc;
+}
+.carriers {
+  width: 23.33333333rem;
+  margin: 1.66666667rem auto 0;
+}
+.carriers dl {
+  margin-bottom: 3.33333333rem;
+}
+.carriers dl dt {
+  overflow: hidden;
+}
+.carriers dl dt img {
+  margin-left: 1.66666667rem;
+  float: left;
+  width: 5rem;
+}
+.carriers dl dt h3 {
+  float: left;
+  margin-left: 1rem;
+  display: inline-block;
+  font-size: 0.8rem;
+  color: #3a3a3a;
+  width: 15.33333333rem;
+}
+.carriers dl dd {
+  width: 20rem;
+  margin: 0.33333333rem auto 0;
+  font-size: 0.66666667rem;
+  color: #6a6a6a;
+  text-align: left;
+}
+.carriers dl dd p {
+  line-height: 0.83333333rem;
+  margin-top: 0.5rem;
+}

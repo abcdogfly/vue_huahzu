@@ -1,0 +1,105 @@
+html,
+body {
+  position: fixed;
+  max-width:30rem;
+  height: 100%;
+}
+#footer {
+  width: 25rem;
+  height: 3.26666667rem;
+  background: #133562;
+  position: fixed;
+  bottom: 0;
+  z-index:2;
+}
+#footer ul {
+  display: flex;
+}
+#footer ul li {
+  flex: 1;
+  text-align: center;
+}
+#footer ul li i {
+  display: block;
+  width: 1.66666rem;
+  height: 1.666666rem;
+  margin: 0.33333333rem auto 0;
+}
+#footer ul li i img{
+  width: 1.66666rem;
+  height: 1.666666rem;
+}
+#footer ul li p {
+  margin-top: 0.33333333rem;
+  color: #fff;
+  font-size: 0.66666667rem;
+}
+#phone_consult {
+  position: fixed;
+  left: 0;
+  top: 5.86666667rem;
+  bottom: 3.26666667rem;
+  width: 100%;
+  z-index: 200;
+}
+#phone_consult .whole_bg {
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+}
+#phone_consult .whole_bg_con {
+  position: absolute;
+  width: 20.13333333rem;
+  height: 14.46666667rem;
+  left: 50%;
+  top: 50%;
+  margin-left: -10.06666667rem;
+  margin-top: -7.23333333rem;
+  background: #fff;
+  border-radius: 0.33333333rem;
+  text-align: center;
+}
+#phone_consult .whole_bg_con p {
+  font-size: 2.2rem;
+  color: #333;
+  text-align: center;
+  margin-top: 3.33333333rem;
+}
+#phone_consult .whole_bg_con input {
+  width: 13.33333333rem;
+  height: 3.33333333rem;
+  border-radius: 0.33333333rem;
+  margin-top: 3rem;
+  background: #133562;
+  color: #fff;
+  outline: none;
+  text-decoration: none;
+  border: none;
+}
+.mint-msgbox {
+  width: 20.16666667rem;
+  height: 14.5rem;
+  border: 0.33333333rem;
+  background: #fff;
+}
+.mint-msgbox .mint-msgbox-content {
+  margin-top: 1.33333333rem;
+  border: none;
+}
+.mint-msgbox .mint-msgbox-content .mint-msgbox-message {
+  font-size: 2.2rem;
+  color: #333;
+}
+.mint-msgbox .mint-msgbox-btns {
+  width: 15rem;
+  margin: 3rem auto 0;
+}
+.mint-msgbox .mint-msgbox-btns .mint-msgbox-btn {
+  height: 3.33333333rem;
+  background: #133562;
+  border-radius: 0.33333333rem;
+}
+.mint-msgbox .mint-msgbox-btns .mint-msgbox-confirm {
+  color: #fff;
+  font-size: 1.13333333rem;
+}
